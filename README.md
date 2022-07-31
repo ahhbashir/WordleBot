@@ -1,1 +1,2 @@
-# Wordle-Bot
+# WordleBot
+This is a 
