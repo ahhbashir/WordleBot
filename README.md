@@ -9,3 +9,4 @@ pip install numpy
 ```
 
 ## Usage
+![cmd wordle](https://user-images.githubusercontent.com/104728253/182044484-4dc8a456-9b1b-48dd-9876-af0009494ab8.jpg)
