@@ -142,7 +142,6 @@ def wordleSolver(possible_words):
     from datetime import date
     diff = (date.today() - date(2021, 6, 19)).days
     del possible_words[0: diff]
-    print(possible_words)
     print("Enter your first guess:")
     guess = input()
     print("Enter your first result:")
