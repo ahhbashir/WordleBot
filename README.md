@@ -30,3 +30,5 @@ Repeat this process until you input 'ggggg' for your result
 ![wordle cmd](https://user-images.githubusercontent.com/104728253/182633944-6a1eea63-59bc-453f-836e-bcf48cea5494.jpg)
 
 ![wordle aug 3](https://user-images.githubusercontent.com/104728253/182633919-a5819482-8218-4fd2-84eb-aa50d5735864.jpg)
+
+FULLY AUTOMATED VERSION COMING SOON!
